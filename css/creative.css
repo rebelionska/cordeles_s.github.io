@@ -4340,7 +4340,8 @@ input[type="button"].btn-block {
 }
 
 .nav-tabs .nav-item:last-child a{
-  color: green;
+  color:#5bc0de;
+  
 }
 
 .nav-tabs .nav-item {
@@ -10811,5 +10812,14 @@ header.masthead h1 {
 
 
     color: green;
+    font-family: 'Open Sans', sans-serif;
+
+    
+  }
+
+
+  .info{
+
+    color: #28a745;
   }
 
